@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='math-binomial-gaussian-distribution',
+setup(name='math_binomial_gaussian_distribution',
       version='0.1',
       description='Gaussian distributions',
-      packages=['math-binomial-gaussian-distribution'],
+      packages=['math_binomial_gaussian_distribution'],
       author='Rishant Rokaha',
-      
+      author_email='rixantrokaha@gmail.com',
       zip_safe=False)
