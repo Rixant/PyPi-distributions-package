@@ -3,7 +3,7 @@ math_binomial_gaussian_distribution is a python package for dealing with probabi
 
 ## Contents
 1. Binomial Distribution
-  a. calculates mean\ 
+  a. calculates mean\
   b. calculates standard deviation\
   c. calculates p and n from the data set\
   d. plots bar chart\
@@ -15,7 +15,7 @@ math_binomial_gaussian_distribution is a python package for dealing with probabi
   b. calculates standard deviation\
   c. plots histogram\
   d. calculates probability density function(p.d.f)\
-  e. plots histogram of p.d.f\
+  e. plots histogram of p.d.f
   
   ## Installation
   Use the package manager [pip](https://pip.pypa.io/en/stable/) to install math_binomial_gaussian_distribution.
