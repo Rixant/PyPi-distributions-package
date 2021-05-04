@@ -2,15 +2,15 @@
 math_binomial_gaussian_distribution is a python package for dealing with probability and distributions in maths. 
 
 ## Contents
-1. Binomial Distribution
+1. Binomial Distribution\
   a. calculates mean\
   b. calculates standard deviation\
   c. calculates p and n from the data set\
   d. plots bar chart\
   e. calculates probability density function(p.d.f)\
-  f. plots bar chart of p.d.f\
+  f. plots bar chart of p.d.f
 
-2. Gaussian Distribution
+2. Gaussian Distribution\
   a. calculates mean\
   b. calculates standard deviation\
   c. plots histogram\
