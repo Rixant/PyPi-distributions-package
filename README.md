@@ -1,5 +1,5 @@
 # Math_binomial_gaussian_distribution
-math_binomial_gaussian_distribution is a python package for dealing with probability and distributions in maths. 
+math_binomial_gaussian_distribution is a python package for dealing with probability distributions calculations in statistics. 
 
 ## Contents
 1. Binomial Distribution\
